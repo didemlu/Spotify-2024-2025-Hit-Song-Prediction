@@ -54,14 +54,14 @@ The dataset includes global top Spotify songs of 2024:
 - `popularity` (used for label definition)
 
   
-  ## 🔮 Prediction Output
+  ## Prediction Output
 
 The model outputs a *probability* of being a hit.  
 If the probability is over *50%, it's classified as a **potential hit*.
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. **Clone the repository**
 ```bash
