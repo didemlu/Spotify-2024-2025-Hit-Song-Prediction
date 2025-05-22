@@ -61,22 +61,16 @@ If the probability is over *50%, it's classified as a **potential hit*.
 
 ---
 
-## How to Run the Project
+## 🚀 How to Run the Project
 
 1. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/spotify-hit-prediction.git
 cd spotify-hit-prediction
-
-2. **Install Dependencies**
-```bash
 pip install -r requirements.txt
-
-3. **Run the Notebook or Script**
-```bash
 jupyter notebook
-or
-python main.py 
+# or
+python main.py
 
 ## 💻 User Input Mode
 
