@@ -92,7 +92,7 @@ Loudness (e.g., -5.0): -4.2
 ```python
 ...
 ```
-🔧 Improving the Project
+ Improving the Project
 This project can be enhanced in several meaningful ways. Here are ideas for future development:
 
 1- Use More Sophisticated Models
@@ -104,7 +104,7 @@ Gradient Boosting
 
 Neural Networks
 
-📌 Example (Random Forest):
+ Example (Random Forest):
 ```python
 from sklearn.ensemble import RandomForestClassifier
 
@@ -145,7 +145,7 @@ Streamlit – Easy & fast
 
 Flask/Django – Custom & scalable
 
-📌 Example:
+ Example:
 ```python
 streamlit run app.py
 ```
@@ -156,7 +156,7 @@ librosa
 
 pydub
 
-📌 Example:
+ Example:
 ```python
 import librosa
 
