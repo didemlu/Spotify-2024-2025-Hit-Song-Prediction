@@ -163,6 +163,15 @@ import librosa
 y, sr = librosa.load("song.mp3")
 tempo, _ = librosa.beat.beat_track(y, sr=sr)
 ```
+---
+
+##  References
+
+- [Spotify Web API Documentation](https://developer.spotify.com/documentation/web-api/)
+- [Kaggle Dataset - Universal Top Spotify Songs 2024](https://www.kaggle.com/)
+- [Analytics Vidhya - 10 Best Data Analytics Projects](https://www.analyticsvidhya.com/blog/2023/05/10-best-data-analytics-projects/)
+- [Analytics Vidhya - Data Science & Machine Learning Blog](https://www.analyticsvidhya.com/blog/)
+- StackOverflow discussions and community forums for logistic regression and API integration support.(https://stackoverflow.com/questions)
 * Contributing
 Feel free to open issues or contribute with pull requests to help expand the project!
 
