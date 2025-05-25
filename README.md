@@ -171,7 +171,7 @@ tempo, _ = librosa.beat.beat_track(y, sr=sr)
 - [Kaggle Dataset - Universal Top Spotify Songs 2024](https://www.kaggle.com/)
 - [Analytics Vidhya - 10 Best Data Analytics Projects](https://www.analyticsvidhya.com/blog/2023/05/10-best-data-analytics-projects/)
 - [Analytics Vidhya - Data Science & Machine Learning Blog](https://www.analyticsvidhya.com/blog/)
-- StackOverflow discussions and community forums for logistic regression and API integration support.(https://stackoverflow.com/questions)
+- (https://stackoverflow.com/questions)
 * Contributing
 Feel free to open issues or contribute with pull requests to help expand the project!
 
