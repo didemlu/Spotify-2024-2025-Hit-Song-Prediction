@@ -173,7 +173,7 @@ tempo, _ = librosa.beat.beat_track(y, sr=sr)
 - [Analytics Vidhya - Data Science & Machine Learning Blog](https://www.analyticsvidhya.com/blog/)
 - (https://stackoverflow.com/questions)
 * Contributing
-Feel free to open issues or contribute with pull requests to help expand the project!
+Feel free to open issues or contribute with pull requests to help expand the project! (link to kaggle: https://www.kaggle.com/code/didemmolu/spotify-2024-2025-hit-song-prediction)
 
 
 
